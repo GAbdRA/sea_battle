@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1716921081 source:d:\pictures\seabattle\main.cpp
+	"D:\Pictures\SeaBATTLE\Menu\Menu.h"
+
+1716920973 source:d:\pictures\seabattle\core\entities\player.cpp
+	"D:\Pictures\SeaBATTLE\Menu\Menu.h"
+
+1716919625 d:\pictures\seabattle\menu\menu.h
+	"D:\Pictures\SeaBATTLE\Core\Entities\Player.h"
+
+1716927084 d:\pictures\seabattle\core\entities\player.h
+	"D:\Pictures\SeaBATTLE\Core\Lib\Lib.h"
+
+1716918167 d:\pictures\seabattle\core\lib\lib.h
+	<iostream>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
+1716919625 source:d:\pictures\seabattle\menu\menu.cpp
+	"Menu.h"
+
